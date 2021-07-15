@@ -2,7 +2,7 @@
 
 ### Markdown
 
-# Header 1 Updates
+# Updates
 Welcome to the SuperMario2DWorld.github.io wiki! The Page Where Update Info is...
 
 0.1: Engine Created
@@ -18,12 +18,10 @@ Welcome to the SuperMario2DWorld.github.io wiki! The Page Where Update Info is..
 0.6 Updated HUD
 
 More coming soon, 2D World Team
-## Header 2 Official site
+## Official site
 Coming Soon...
-### Header 3
+### Where our work is
 Our studio:
 [https://scratch.mit.edu/studios/30072042](url)
 **Bold** and _Italic_ and `Code` text
-Our studio:
-[https://scratch.mit.edu/studios/30072042](url)
 ```
