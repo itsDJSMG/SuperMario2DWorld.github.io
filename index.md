@@ -23,5 +23,4 @@ Coming Soon...
 ### Where our work is
 Our studio:
 [https://scratch.mit.edu/studios/30072042](url)
-**Bold** and _Italic_ and `Code` text
 ```
